@@ -1,0 +1,99 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AbstractFactory",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "AbstractFactory"
+        },
+        {
+            "type": "java",
+            "name": "Command",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Command"
+        },
+        {
+            "type": "java",
+            "name": "DAO",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "DAO"
+        },
+        {
+            "type": "java",
+            "name": "Decorator",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Decorator"
+        },
+        {
+            "type": "java",
+            "name": "DependencyInjection",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "DependencyInjection"
+        },
+        {
+            "type": "java",
+            "name": "Facade",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Facade"
+        },
+        {
+            "type": "java",
+            "name": "Factory",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Factory"
+        },
+        {
+            "type": "java",
+            "name": "Memento",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Memento"
+        },
+        {
+            "type": "java",
+            "name": "Observer",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Observer"
+        },
+        {
+            "type": "java",
+            "name": "Prototype",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Prototype"
+        },
+        {
+            "type": "java",
+            "name": "Proxy",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Proxy"
+        },
+        {
+            "type": "java",
+            "name": "Singleton",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Singleton"
+        },
+        {
+            "type": "java",
+            "name": "Strategy",
+            "request": "launch",
+            "mainClass": "com.mitocode.App",
+            "projectName": "Strategy"
+        }
+    ]
+}
